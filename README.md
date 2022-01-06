@@ -4,4 +4,4 @@
 
 [Bing](https://www.bing.com/)
 
-[Disord](https://www.discord.com/login)
+[Discord](https://www.discord.com/login)

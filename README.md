@@ -1,4 +1,4 @@
-# Links (Bypass go BRR)
+# Helpful Links
 
 [Google](https://www.google.com)
 
